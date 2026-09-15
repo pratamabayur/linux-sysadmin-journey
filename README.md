@@ -4,7 +4,7 @@ Dokumentasi hands-on pembelajaran Linux system administration, dipraktikkan lang
 
 > ⚠️ **Catatan keamanan:** Seluruh IP address, hostname, username, password, dan token pada dokumentasi ini adalah **placeholder/disamarkan**. Struktur command dan output dipertahankan seaslinya untuk keperluan pembelajaran.
 
-## Tentang Proyek Ini
+## Tentang Personal Learning Project ini
 
 Alih-alih belajar lewat tutorial pasif, proyek ini disusun dari praktik langsung di server yang punya karakteristik dunia nyata: multi-user, ada riwayat konfigurasi sebelumnya, dan tidak steril seperti sandbox latihan pada umumnya. Setiap topik didokumentasikan dengan:
 - **Command** yang digunakan
@@ -60,5 +60,3 @@ Beberapa temuan paling berharga dari proses ini didokumentasikan lebih detail di
 ## Tentang
 
 Dokumentasi ini adalah bagian dari personal learning project. Update berkala mengikuti progress pembelajaran level Medium dan Hard.
-
-**Connect:** [LinkedIn](#) *(isi link kamu di sini)*
