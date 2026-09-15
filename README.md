@@ -32,22 +32,22 @@ Alih-alih belajar lewat tutorial pasif, proyek ini disusun dari praktik langsung
 
 | Kode | Topik |
 |---|---|
-| [E01](easy/E01-hostname.md) | Mengubah hostname secara permanen |
-| [E02](easy/E02-process-monitoring.md) | Analisis proses CPU & memory |
-| [E03](easy/E03-service-status.md) | Verifikasi status service |
-| [E04](easy/E04-network-ports.md) | Identifikasi port jaringan listening |
-| [E05](easy/E05-server-specs.md) | Spesifikasi server (CPU, RAM, disk, OS) |
-| [E06](easy/E06-local-users.md) | Daftar user lokal |
-| [E07](easy/E07-disk-io.md) | Utilisasi I/O disk |
-| [E08](easy/E08-memory-cache.md) | Manajemen cache memory |
-| [E09](easy/E09-packet-capture.md) | Packet capture jaringan |
-| [E10](easy/E10-package-management.md) | Instalasi & verifikasi paket software |
-| [E11](easy/E11-connectivity-test.md) | Uji konektivitas SSH/NFS/DNS/NTP |
-| [E12](easy/E12-ssh-key-auth.md) | SSH key-based authentication |
-| [E13](easy/E13-group-management.md) | Manajemen group & keanggotaan |
-| [E14](easy/E14-ownership-permission.md) | Ownership & permission direktori |
-| [E15](easy/E15-log-audit.md) | Log sistem untuk audit |
-| [E16](easy/E16-password-management.md) | Manajemen password & status akun |
+| [E01](E01-hostname.md) | Mengubah hostname secara permanen |
+| [E02](E02-process-monitoring.md) | Analisis proses CPU & memory |
+| [E03](E03-service-status.md) | Verifikasi status service |
+| [E04](E04-network-ports.md) | Identifikasi port jaringan listening |
+| [E05](E05-server-specs.md) | Spesifikasi server (CPU, RAM, disk, OS) |
+| [E06](E06-local-users.md) | Daftar user lokal |
+| [E07](E07-disk-io.md) | Utilisasi I/O disk |
+| [E08](E08-memory-cache.md) | Manajemen cache memory |
+| [E09](E09-packet-capture.md) | Packet capture jaringan |
+| [E10](E10-package-management.md) | Instalasi & verifikasi paket software |
+| [E11](E11-connectivity-test.md) | Uji konektivitas SSH/NFS/DNS/NTP |
+| [E12](E12-ssh-key-auth.md) | SSH key-based authentication |
+| [E13](E13-group-management.md) | Manajemen group & keanggotaan |
+| [E14](E14-ownership-permission.md) | Ownership & permission direktori |
+| [E15](E15-log-audit.md) | Log sistem untuk audit |
+| [E16](E16-password-management.md) | Manajemen password & status akun |
 
 ## Insight Utama
 
